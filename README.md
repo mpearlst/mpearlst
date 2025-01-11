@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mpearlst
-- 👀 I’m interested in DevOps and System Administration
-- 🌱 I’m currently learning AWS CloudFormation
+- 👀 I’m interested in DevOps and System / Cloud Administration
+- 🌱 I’m currently learning Azure & Intune
 - 📫 How to reach me: github@batlab.io
 - 😄 Pronouns: He/Him/His
 <!---
